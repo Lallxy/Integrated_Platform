@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Integrated_Platform_App.Service/1.0.0": {
+        "runtime": {
+          "Integrated_Platform_App.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Integrated_Platform_App.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

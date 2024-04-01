@@ -1,0 +1,11 @@
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.Service\bin\Debug\net6.0\Integrated_Platform_App.Service.deps.json
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.Service\bin\Debug\net6.0\Integrated_Platform_App.Service.dll
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.Service\bin\Debug\net6.0\Integrated_Platform_App.Service.pdb
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.Service\obj\Debug\net6.0\Integrated_Platform_App.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.Service\obj\Debug\net6.0\Integrated_Platform_App.Service.AssemblyInfoInputs.cache
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.Service\obj\Debug\net6.0\Integrated_Platform_App.Service.AssemblyInfo.cs
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.Service\obj\Debug\net6.0\Integrated_Platform_App.Service.csproj.CoreCompileInputs.cache
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.Service\obj\Debug\net6.0\Integrated_Platform_App.Service.dll
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.Service\obj\Debug\net6.0\refint\Integrated_Platform_App.Service.dll
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.Service\obj\Debug\net6.0\Integrated_Platform_App.Service.pdb
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.Service\obj\Debug\net6.0\ref\Integrated_Platform_App.Service.dll
