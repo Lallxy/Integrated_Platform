@@ -1,0 +1,35 @@
+﻿<prism:PrismApplication
+    x:Class="Integrated_Platform_App.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:Integrated_Platform_App"
+    xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+    xmlns:prism="http://prismlibrary.com/">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <!--
+                    BaseTheme="Light"
+                    PrimaryColor="Teal"
+                    SecondaryColor="Teal"
+                -->
+                <materialDesign:BundledTheme />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesign3.Defaults.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml" />
+                <!--<ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml" />-->
+            </ResourceDictionary.MergedDictionaries>
+            <!--  PRIMARY  -->
+            <SolidColorBrush x:Key="PrimaryHueLightBrush" Color="#4f83cc" />
+            <SolidColorBrush x:Key="PrimaryHueMidBrush" Color="#01579b" />
+            <SolidColorBrush x:Key="PrimaryHueDarkBrush" Color="#002f6c" />
+
+            <SolidColorBrush x:Key="PrimaryHueLightForegroundBrush" Color="#ffffff" />
+            <SolidColorBrush x:Key="PrimaryHueMidForegroundBrush" Color="#ffffff" />
+            <SolidColorBrush x:Key="PrimaryHueDarkForegroundBrush" Color="#ffffff" />
+
+            <!--  ACCENT  -->
+            <SolidColorBrush x:Key="SecondaryAccentBrush" Color="#4f83cc" />
+            <SolidColorBrush x:Key="SecondaryAccentForegroundBrush" Color="#4f83cc" />
+        </ResourceDictionary>
+    </Application.Resources>
+</prism:PrismApplication>

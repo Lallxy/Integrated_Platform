@@ -1,0 +1,226 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7874F2E0-7B2F-44BE-ADA6-3791F58D46D2}|Integrated_Platform_App\\Integrated_Platform_App.csproj|c:\\mycode\\integrated_platform_app\\integrated_platform_app\\integrated_platform_app\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7874F2E0-7B2F-44BE-ADA6-3791F58D46D2}|Integrated_Platform_App\\Integrated_Platform_App.csproj|solutionrelative:integrated_platform_app\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7874F2E0-7B2F-44BE-ADA6-3791F58D46D2}|Integrated_Platform_App\\Integrated_Platform_App.csproj|c:\\mycode\\integrated_platform_app\\integrated_platform_app\\integrated_platform_app\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7874F2E0-7B2F-44BE-ADA6-3791F58D46D2}|Integrated_Platform_App\\Integrated_Platform_App.csproj|solutionrelative:integrated_platform_app\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7874F2E0-7B2F-44BE-ADA6-3791F58D46D2}|Integrated_Platform_App\\Integrated_Platform_App.csproj|c:\\mycode\\integrated_platform_app\\integrated_platform_app\\integrated_platform_app\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7874F2E0-7B2F-44BE-ADA6-3791F58D46D2}|Integrated_Platform_App\\Integrated_Platform_App.csproj|solutionrelative:integrated_platform_app\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54002563-16C3-4775-B1DA-F78923272AE5}|Integrated_Platform_App.Common\\Integrated_Platform_App.Common.csproj|c:\\mycode\\integrated_platform_app\\integrated_platform_app\\integrated_platform_app.common\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54002563-16C3-4775-B1DA-F78923272AE5}|Integrated_Platform_App.Common\\Integrated_Platform_App.Common.csproj|solutionrelative:integrated_platform_app.common\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54002563-16C3-4775-B1DA-F78923272AE5}|Integrated_Platform_App.Common\\Integrated_Platform_App.Common.csproj|c:\\mycode\\integrated_platform_app\\integrated_platform_app\\integrated_platform_app.common\\models\\taskbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54002563-16C3-4775-B1DA-F78923272AE5}|Integrated_Platform_App.Common\\Integrated_Platform_App.Common.csproj|solutionrelative:integrated_platform_app.common\\models\\taskbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54002563-16C3-4775-B1DA-F78923272AE5}|Integrated_Platform_App.Common\\Integrated_Platform_App.Common.csproj|c:\\mycode\\integrated_platform_app\\integrated_platform_app\\integrated_platform_app.common\\models\\menubar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54002563-16C3-4775-B1DA-F78923272AE5}|Integrated_Platform_App.Common\\Integrated_Platform_App.Common.csproj|solutionrelative:integrated_platform_app.common\\models\\menubar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7874F2E0-7B2F-44BE-ADA6-3791F58D46D2}|Integrated_Platform_App\\Integrated_Platform_App.csproj|c:\\mycode\\integrated_platform_app\\integrated_platform_app\\integrated_platform_app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7874F2E0-7B2F-44BE-ADA6-3791F58D46D2}|Integrated_Platform_App\\Integrated_Platform_App.csproj|solutionrelative:integrated_platform_app\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7874F2E0-7B2F-44BE-ADA6-3791F58D46D2}|Integrated_Platform_App\\Integrated_Platform_App.csproj|c:\\mycode\\integrated_platform_app\\integrated_platform_app\\integrated_platform_app\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7874F2E0-7B2F-44BE-ADA6-3791F58D46D2}|Integrated_Platform_App\\Integrated_Platform_App.csproj|solutionrelative:integrated_platform_app\\views\\homeview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7874F2E0-7B2F-44BE-ADA6-3791F58D46D2}|Integrated_Platform_App\\Integrated_Platform_App.csproj|c:\\mycode\\integrated_platform_app\\integrated_platform_app\\integrated_platform_app\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7874F2E0-7B2F-44BE-ADA6-3791F58D46D2}|Integrated_Platform_App\\Integrated_Platform_App.csproj|solutionrelative:integrated_platform_app\\views\\homeview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2729AB2B-6F72-45F4-9C35-015C687F56F0}|Integrated_Platform_App.API\\Integrated_Platform_App.API.csproj|c:\\mycode\\integrated_platform_app\\integrated_platform_app\\integrated_platform_app.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2729AB2B-6F72-45F4-9C35-015C687F56F0}|Integrated_Platform_App.API\\Integrated_Platform_App.API.csproj|solutionrelative:integrated_platform_app.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA37BAA2-764B-4632-84F1-BCDDE7A2ED20}|Integrated_Platform_App.DAL\\Integrated_Platform_App.DAL.csproj|c:\\mycode\\integrated_platform_app\\integrated_platform_app\\integrated_platform_app.dal\\integrated_platform_app.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BA37BAA2-764B-4632-84F1-BCDDE7A2ED20}|Integrated_Platform_App.DAL\\Integrated_Platform_App.DAL.csproj|solutionrelative:integrated_platform_app.dal\\integrated_platform_app.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7874F2E0-7B2F-44BE-ADA6-3791F58D46D2}|Integrated_Platform_App\\Integrated_Platform_App.csproj|c:\\mycode\\integrated_platform_app\\integrated_platform_app\\integrated_platform_app\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7874F2E0-7B2F-44BE-ADA6-3791F58D46D2}|Integrated_Platform_App\\Integrated_Platform_App.csproj|solutionrelative:integrated_platform_app\\views\\mainview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7874F2E0-7B2F-44BE-ADA6-3791F58D46D2}|Integrated_Platform_App\\Integrated_Platform_App.csproj|c:\\mycode\\integrated_platform_app\\integrated_platform_app\\integrated_platform_app\\integrated_platform_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7874F2E0-7B2F-44BE-ADA6-3791F58D46D2}|Integrated_Platform_App\\Integrated_Platform_App.csproj|solutionrelative:integrated_platform_app\\integrated_platform_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Integrated_Platform_App\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Integrated_Platform_App\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:34:05.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "Integrated_Platform_App\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App\\Views\\LoginView.xaml",
+              "RelativeToolTip": "Integrated_Platform_App\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T13:34:05.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "Integrated_Platform_App\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "Integrated_Platform_App\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBsAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:34:05.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App.Common\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Integrated_Platform_App.Common\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App.Common\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "Integrated_Platform_App.Common\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAkwAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:34:05.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskBar.cs",
+              "DocumentMoniker": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App.Common\\Models\\TaskBar.cs",
+              "RelativeDocumentMoniker": "Integrated_Platform_App.Common\\Models\\TaskBar.cs",
+              "ToolTip": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App.Common\\Models\\TaskBar.cs",
+              "RelativeToolTip": "Integrated_Platform_App.Common\\Models\\TaskBar.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:34:05.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuBar.cs",
+              "DocumentMoniker": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App.Common\\Models\\MenuBar.cs",
+              "RelativeDocumentMoniker": "Integrated_Platform_App.Common\\Models\\MenuBar.cs",
+              "ToolTip": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App.Common\\Models\\MenuBar.cs",
+              "RelativeToolTip": "Integrated_Platform_App.Common\\Models\\MenuBar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:34:05.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Integrated_Platform_App\\App.xaml.cs",
+              "ToolTip": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App\\App.xaml.cs",
+              "RelativeToolTip": "Integrated_Platform_App\\App.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAxwBgAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:34:05.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Integrated_Platform_App.DAL.csproj",
+              "DocumentMoniker": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App.DAL\\Integrated_Platform_App.DAL.csproj",
+              "RelativeDocumentMoniker": "Integrated_Platform_App.DAL\\Integrated_Platform_App.DAL.csproj",
+              "ToolTip": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App.DAL\\Integrated_Platform_App.DAL.csproj",
+              "RelativeToolTip": "Integrated_Platform_App.DAL\\Integrated_Platform_App.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-01T13:34:05.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App.API\\Program.cs",
+              "RelativeDocumentMoniker": "Integrated_Platform_App.API\\Program.cs",
+              "ToolTip": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App.API\\Program.cs",
+              "RelativeToolTip": "Integrated_Platform_App.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:34:05.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeView.xaml",
+              "DocumentMoniker": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App\\Views\\HomeView.xaml",
+              "RelativeDocumentMoniker": "Integrated_Platform_App\\Views\\HomeView.xaml",
+              "ToolTip": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App\\Views\\HomeView.xaml",
+              "RelativeToolTip": "Integrated_Platform_App\\Views\\HomeView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T13:34:05.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainView.xaml",
+              "DocumentMoniker": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App\\Views\\MainView.xaml",
+              "RelativeDocumentMoniker": "Integrated_Platform_App\\Views\\MainView.xaml",
+              "ToolTip": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App\\Views\\MainView.xaml",
+              "RelativeToolTip": "Integrated_Platform_App\\Views\\MainView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-01T13:34:05.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeView.xaml.cs",
+              "DocumentMoniker": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App\\Views\\HomeView.xaml.cs",
+              "RelativeDocumentMoniker": "Integrated_Platform_App\\Views\\HomeView.xaml.cs",
+              "ToolTip": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App\\Views\\HomeView.xaml.cs",
+              "RelativeToolTip": "Integrated_Platform_App\\Views\\HomeView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-01T13:34:05.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Integrated_Platform_App.csproj",
+              "DocumentMoniker": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App.csproj",
+              "RelativeDocumentMoniker": "Integrated_Platform_App\\Integrated_Platform_App.csproj",
+              "ToolTip": "C:\\MyCode\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App\\Integrated_Platform_App.csproj",
+              "RelativeToolTip": "Integrated_Platform_App\\Integrated_Platform_App.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-01T13:34:05.903Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

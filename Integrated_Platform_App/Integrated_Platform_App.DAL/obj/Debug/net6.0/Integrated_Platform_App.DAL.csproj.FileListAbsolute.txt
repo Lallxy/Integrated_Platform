@@ -1,0 +1,15 @@
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.DAL\bin\Debug\net6.0\Integrated_Platform_App.DAL.deps.json
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.DAL\bin\Debug\net6.0\Integrated_Platform_App.DAL.dll
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.DAL\bin\Debug\net6.0\Integrated_Platform_App.DAL.pdb
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.DAL\bin\Debug\net6.0\Integrated_Platform_App.Common.dll
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.DAL\bin\Debug\net6.0\Integrated_Platform_App.Common.pdb
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.DAL\obj\Debug\net6.0\Integrated_Platform_App.DAL.csproj.AssemblyReference.cache
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.DAL\obj\Debug\net6.0\Integrated_Platform_App.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.DAL\obj\Debug\net6.0\Integrated_Platform_App.DAL.AssemblyInfoInputs.cache
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.DAL\obj\Debug\net6.0\Integrated_Platform_App.DAL.AssemblyInfo.cs
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.DAL\obj\Debug\net6.0\Integrated_Platform_App.DAL.csproj.CoreCompileInputs.cache
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.DAL\obj\Debug\net6.0\Integrated_Platform_App.DAL.csproj.CopyComplete
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.DAL\obj\Debug\net6.0\Integrated_Platform_App.DAL.dll
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.DAL\obj\Debug\net6.0\refint\Integrated_Platform_App.DAL.dll
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.DAL\obj\Debug\net6.0\Integrated_Platform_App.DAL.pdb
+C:\Users\XZKEM\source\Integrated_Platform_App\Integrated_Platform_App.DAL\obj\Debug\net6.0\ref\Integrated_Platform_App.DAL.dll
